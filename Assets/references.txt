@@ -1,0 +1,13 @@
+**References:**
+
+1. **Custom Sprites**  
+   - Player, Rocket, Enemy  
+   - Created by Danielle Craig using Piskel: https://www.piskelapp.com  
+
+2. **Pixel Adventure 1 Pack**  
+   - Source: Unity Asset Store  
+   - Link: [https://assetstore.unity.com/packages/2d/characters/pixel-adventure-1-155360]  
+
+3. **BayatGames Pack**  
+   - Source: Unity Community Asset Store  
+   - Link: [https://assetstore.unity.com/packages/2d/environments/free-platform-game-assets-85838]  
